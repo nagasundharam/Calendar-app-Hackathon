@@ -1,0 +1,63 @@
+{
+  "events": {
+    "2025-03-25": [
+      {
+        "time": "08:00",
+        "name": "Daily Standup",
+        "color": "green"
+      },
+      {
+        "time": "09:00",
+        "name": "Budget Review",
+        "color": "red"
+      }
+    ],
+    "2025-03-26": [
+      {
+        "time": "13:00",
+        "name": "Tech Standup",
+        "color": "purple"
+      }
+    ],
+    "events": {
+      "2025-03-11": [
+        {
+          "time": "15:34",
+          "name": "nagasundharam",
+          "color": "yellow"
+        },
+        {
+          "time": "17:39",
+          "name": "nagasundharam",
+          "color": "blue"
+        }
+      ],
+      "2025-03-12": [
+        {
+          "time": "16:36",
+          "name": "nagasundharam",
+          "color": "blue"
+        }
+      ],
+      "2025-03-26": [
+        {
+          "time": "17:38",
+          "name": "naga",
+          "color": "red"
+        },
+        {
+          "time": "13:48",
+          "name": "dharani",
+          "color": "blue"
+        }
+      ],
+      "2025-03-13": [
+        {
+          "time": "16:44",
+          "name": "gowtham",
+          "color": "yellow"
+        }
+      ]
+    }
+  }
+}
